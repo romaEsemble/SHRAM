@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213729688632",
+    "project_id": "khoj-59208",
+    "storage_bucket": "khoj-59208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213729688632:android:a29f3aff1a6b4dd7aa3acd",
+        "android_client_info": {
+          "package_name": "com.shram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213729688632-kg1i7j0q0nnt6m3ea42nrp6v7ghkecvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCD-u4QbxEmI6KywodymuM7c5GVDBbxcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213729688632-kg1i7j0q0nnt6m3ea42nrp6v7ghkecvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

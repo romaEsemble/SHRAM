@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="42" viewBox="0 0 26 42">
+  <g id="Group_289" data-name="Group 289" transform="translate(-35 -378)">
+    <text id="TYPE" transform="translate(48 417)" fill="#707070" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="-12.021" y="0">TYPE</tspan></text>
+    <path id="Icon_open-text" data-name="Icon open-text" d="M0,0V6.25H1.563A3.134,3.134,0,0,1,4.688,3.125H9.375V20.313a1.547,1.547,0,0,1-1.562,1.563H6.25V25h12.5V21.875H17.188a1.547,1.547,0,0,1-1.562-1.562V3.125h4.688A3.134,3.134,0,0,1,23.438,6.25H25V0Z" transform="translate(36 378)" fill="#4eaf47"/>
+  </g>
+</svg>
