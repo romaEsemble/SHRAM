@@ -1,0 +1,46 @@
+#header{
+    color: blueviolet;
+}
+
+.p{
+    font-size: 30px;
+    font-weight: 500;
+    color: black;
+}
+
+.img{
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+  }
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.h1{
+    font-size: 200px;
+    font-weight: 700;
+    font-family: "roboto", sans-serif;
+    color: black;
+}
+
+.p1{
+    color: gray;
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.Team{
+    text-align: center;
+    
+}
